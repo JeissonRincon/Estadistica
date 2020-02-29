@@ -1,0 +1,3 @@
+# Estadistica
+
+Bloc ESTADISTICA
